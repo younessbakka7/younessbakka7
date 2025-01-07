@@ -55,6 +55,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?t=st=1736274115~exp=1736277715~hmac=505aaf0666c4ad727aeedadb18b9c7d52e8b28b45b9f429695fc319f32dea924&w=1060"  />
 
 ###
